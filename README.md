@@ -1,1 +1,2 @@
 # FuckyibanVideo
+油猴脚本新建脚本复制FuckyibanVideo.js里面的东西即可生效
